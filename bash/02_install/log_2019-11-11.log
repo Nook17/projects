@@ -1,0 +1,283 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following package was automatically installed and is no longer required:
+  libjemalloc1
+Use 'sudo apt autoremove' to remove it.
+The following packages will be upgraded:
+  libsgutils2-2
+1 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 59,8 kB of archives.
+After this operation, 4 096 B disk space will be freed.
+Get:1 http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 libsgutils2-2 amd64 1.42-2ubuntu1.18.04.1 [59,8 kB]
+Fetched 59,8 kB in 0s (234 kB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 313544 files and directories currently installed.)
+Preparing to unpack .../libsgutils2-2_1.42-2ubuntu1.18.04.1_amd64.deb ...
+Unpacking libsgutils2-2 (1.42-2ubuntu1.18.04.1) over (1.42-2ubuntu1) ...
+Setting up libsgutils2-2 (1.42-2ubuntu1.18.04.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 http://archive.canonical.com/ubuntu bionic InRelease
+Hit:2 http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Ign:3 http://ddebs.ubuntu.com bionic InRelease
+Hit:4 http://security.ubuntu.com/ubuntu bionic-security InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu bionic InRelease
+Ign:6 http://ddebs.ubuntu.com bionic-updates InRelease
+Hit:7 http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Hit:8 http://ddebs.ubuntu.com bionic Release
+Hit:9 http://archive.ubuntu.com/ubuntu bionic-updates InRelease
+Ign:10 http://packages.linuxmint.com tina InRelease
+Hit:11 http://ddebs.ubuntu.com bionic-updates Release
+Hit:12 http://archive.ubuntu.com/ubuntu bionic-backports InRelease
+Hit:13 http://packages.linuxmint.com tina Release
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Ign:1 http://ddebs.ubuntu.com bionic InRelease
+Ign:2 http://ddebs.ubuntu.com bionic-updates InRelease
+Hit:3 http://ddebs.ubuntu.com bionic Release
+Hit:4 http://ddebs.ubuntu.com bionic-updates Release
+Hit:7 http://archive.canonical.com/ubuntu bionic InRelease
+Hit:8 http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Hit:9 http://archive.ubuntu.com/ubuntu bionic InRelease
+Hit:10 http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Get:11 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Hit:12 http://security.ubuntu.com/ubuntu bionic-security InRelease
+Ign:13 http://packages.linuxmint.com tina InRelease
+Hit:14 http://packages.linuxmint.com tina Release
+Get:15 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Fetched 163 kB in 6s (25,8 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+\e[0;31mERROR - Nie podałęś żadnego argumentu!\e[0m
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 http://archive.canonical.com/ubuntu bionic InRelease
+Ign:2 http://ddebs.ubuntu.com bionic InRelease
+Hit:3 http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Ign:4 http://ddebs.ubuntu.com bionic-updates InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu bionic InRelease
+Get:6 http://security.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Hit:7 http://ddebs.ubuntu.com bionic Release
+Hit:8 http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Hit:9 http://ddebs.ubuntu.com bionic-updates Release
+Get:10 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Ign:11 http://packages.linuxmint.com tina InRelease
+Hit:13 http://packages.linuxmint.com tina Release
+Get:15 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Fetched 252 kB in 1s (190 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[0;31mERROR - Nie podałęś żadnego argumentu![0m
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 http://archive.ubuntu.com/ubuntu bionic InRelease
+Ign:2 http://ddebs.ubuntu.com bionic InRelease
+Hit:3 http://archive.canonical.com/ubuntu bionic InRelease
+Hit:4 http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Ign:5 http://ddebs.ubuntu.com bionic-updates InRelease
+Get:6 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Hit:7 http://ddebs.ubuntu.com bionic Release
+Hit:8 http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Hit:9 http://security.ubuntu.com/ubuntu bionic-security InRelease
+Hit:10 http://ddebs.ubuntu.com bionic-updates Release
+Ign:11 http://packages.linuxmint.com tina InRelease
+Hit:12 http://packages.linuxmint.com tina Release
+Get:13 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Fetched 163 kB in 2s (81,0 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[0;31mERROR - Nie podałęś żadnego argumentu![0m
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 http://archive.canonical.com/ubuntu bionic InRelease
+Hit:2 http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Ign:3 http://ddebs.ubuntu.com bionic InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu bionic InRelease
+Get:5 http://security.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Ign:6 http://ddebs.ubuntu.com bionic-updates InRelease
+Hit:7 http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Hit:8 http://ddebs.ubuntu.com bionic Release
+Get:9 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Hit:10 http://ddebs.ubuntu.com bionic-updates Release
+Ign:11 http://packages.linuxmint.com tina InRelease
+Hit:12 http://packages.linuxmint.com tina Release
+Get:13 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Fetched 252 kB in 2s (132 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[0;31m[ERROR] - Nie podałęś żadnego argumentu![0m
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 http://archive.canonical.com/ubuntu bionic InRelease
+Hit:2 http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu bionic InRelease
+Hit:4 http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Get:5 http://security.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Ign:6 http://ddebs.ubuntu.com bionic InRelease
+Get:7 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Ign:8 http://ddebs.ubuntu.com bionic-updates InRelease
+Hit:9 http://ddebs.ubuntu.com bionic Release
+Ign:10 http://packages.linuxmint.com tina InRelease
+Get:11 http://ddebs.ubuntu.com bionic-updates Release [34,7 kB]
+Get:12 http://ddebs.ubuntu.com bionic-updates Release.gpg [819 B]
+Hit:13 http://packages.linuxmint.com tina Release
+Get:14 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Fetched 288 kB in 2s (158 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[0:34m[MESSAGE] - Nasz pakiet zip jest już zainstalowany![0m
+Instalacja pakietu mc
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  mc-data
+Suggested packages:
+  arj catdvi | texlive-binaries dbview djvulibre-bin gv imagemagick
+  libaspell-dev odt2txt python-tz
+The following NEW packages will be installed:
+  mc mc-data
+0 upgraded, 2 newly installed, 0 to remove and 0 not upgraded.
+Need to get 1 712 kB of archives.
+After this operation, 7 272 kB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu bionic/universe amd64 mc-data all 3:4.8.19-1 [1 238 kB]
+Get:2 http://archive.ubuntu.com/ubuntu bionic/universe amd64 mc amd64 3:4.8.19-1 [474 kB]
+Fetched 1 712 kB in 1s (1 891 kB/s)
+Selecting previously unselected package mc-data.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 313539 files and directories currently installed.)
+Preparing to unpack .../mc-data_3%3a4.8.19-1_all.deb ...
+Unpacking mc-data (3:4.8.19-1) ...
+Selecting previously unselected package mc.
+Preparing to unpack .../mc_3%3a4.8.19-1_amd64.deb ...
+Unpacking mc (3:4.8.19-1) ...
+Setting up mc-data (3:4.8.19-1) ...
+Setting up mc (3:4.8.19-1) ...
+Processing triggers for gnome-menus (3.13.3-11ubuntu1.1) ...
+Processing triggers for hicolor-icon-theme (0.17-2) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for desktop-file-utils (0.23+linuxmint6) ...
+Processing triggers for doc-base (0.10.8) ...
+Processing 1 added doc-base file...
+Registering documents with scrollkeeper...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+[0;32m[OK] - Pakiet mc zainstalowany pomyślnie.[0m
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 http://archive.canonical.com/ubuntu bionic InRelease
+Hit:2 http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Ign:3 http://ddebs.ubuntu.com bionic InRelease
+Get:4 http://security.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Ign:5 http://ddebs.ubuntu.com bionic-updates InRelease
+Hit:6 http://ddebs.ubuntu.com bionic Release
+Hit:7 http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Hit:8 http://archive.ubuntu.com/ubuntu bionic InRelease
+Ign:9 http://packages.linuxmint.com tina InRelease
+Hit:10 http://ddebs.ubuntu.com bionic-updates Release
+Get:11 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Hit:12 http://packages.linuxmint.com tina Release
+Get:14 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Fetched 252 kB in 2s (137 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[0;34m[MESSAGE] - Nasz pakiet zip jest już zainstalowany![0m
+[0;34m[MESSAGE] - Nasz pakiet mc jest już zainstalowany![0m

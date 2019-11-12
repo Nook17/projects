@@ -1,0 +1,173 @@
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Hit:1 http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Hit:2 http://archive.canonical.com/ubuntu bionic InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu bionic InRelease
+Hit:4 http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Get:5 http://archive.ubuntu.com/ubuntu bionic-updates InRelease [88,7 kB]
+Ign:6 http://ddebs.ubuntu.com bionic InRelease
+Ign:7 http://packages.linuxmint.com tina InRelease
+Ign:8 http://ddebs.ubuntu.com bionic-updates InRelease
+Hit:9 http://ddebs.ubuntu.com bionic Release
+Get:10 http://ddebs.ubuntu.com bionic-updates Release [34,7 kB]
+Get:11 http://archive.ubuntu.com/ubuntu bionic-backports InRelease [74,6 kB]
+Hit:12 http://packages.linuxmint.com tina Release
+Get:13 http://security.ubuntu.com/ubuntu bionic-security InRelease [88,7 kB]
+Get:14 http://ddebs.ubuntu.com bionic-updates Release.gpg [819 B]
+Get:15 http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 Packages [769 kB]
+Get:18 http://archive.ubuntu.com/ubuntu bionic-updates/main i386 Packages [601 kB]
+Get:19 http://security.ubuntu.com/ubuntu bionic-security/main Sources [127 kB]
+Get:20 http://archive.ubuntu.com/ubuntu bionic-updates/main amd64 DEP-11 Metadata [295 kB]
+Get:21 http://archive.ubuntu.com/ubuntu bionic-updates/universe amd64 DEP-11 Metadata [264 kB]
+Get:22 http://security.ubuntu.com/ubuntu bionic-security/main amd64 Packages [545 kB]
+Get:23 http://archive.ubuntu.com/ubuntu bionic-updates/multiverse amd64 DEP-11 Metadata [2 464 B]
+Get:24 http://archive.ubuntu.com/ubuntu bionic-backports/universe amd64 DEP-11 Metadata [7 976 B]
+Get:25 http://security.ubuntu.com/ubuntu bionic-security/main i386 Packages [390 kB]
+Get:26 http://security.ubuntu.com/ubuntu bionic-security/main amd64 DEP-11 Metadata [38,5 kB]
+Get:27 http://security.ubuntu.com/ubuntu bionic-security/universe amd64 Packages [617 kB]
+Get:28 http://security.ubuntu.com/ubuntu bionic-security/universe i386 Packages [595 kB]
+Get:29 http://security.ubuntu.com/ubuntu bionic-security/universe amd64 DEP-11 Metadata [42,1 kB]
+Get:30 http://security.ubuntu.com/ubuntu bionic-security/multiverse amd64 DEP-11 Metadata [2 464 B]
+Fetched 4 583 kB in 7s (615 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+4 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following packages will be upgraded:
+  gir1.2-javascriptcoregtk-4.0 gir1.2-webkit2-4.0 libjavascriptcoregtk-4.0-18
+  libwebkit2gtk-4.0-37
+4 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 16,8 MB of archives.
+After this operation, 64,5 kB of additional disk space will be used.
+Get:1 http://security.ubuntu.com/ubuntu bionic-security/main amd64 libwebkit2gtk-4.0-37 amd64 2.26.2-0ubuntu0.18.04.1 [11,7 MB]
+Get:2 http://security.ubuntu.com/ubuntu bionic-security/main amd64 libjavascriptcoregtk-4.0-18 amd64 2.26.2-0ubuntu0.18.04.1 [4 987 kB]
+Get:3 http://security.ubuntu.com/ubuntu bionic-security/main amd64 gir1.2-webkit2-4.0 amd64 2.26.2-0ubuntu0.18.04.1 [69,2 kB]
+Get:4 http://security.ubuntu.com/ubuntu bionic-security/main amd64 gir1.2-javascriptcoregtk-4.0 amd64 2.26.2-0ubuntu0.18.04.1 [22,0 kB]
+Fetched 16,8 MB in 2s (7 817 kB/s)
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 313909 files and directories currently installed.)
+Preparing to unpack .../libwebkit2gtk-4.0-37_2.26.2-0ubuntu0.18.04.1_amd64.deb ...
+Unpacking libwebkit2gtk-4.0-37:amd64 (2.26.2-0ubuntu0.18.04.1) over (2.26.1-0ubuntu0.18.04.1) ...
+Preparing to unpack .../libjavascriptcoregtk-4.0-18_2.26.2-0ubuntu0.18.04.1_amd64.deb ...
+Unpacking libjavascriptcoregtk-4.0-18:amd64 (2.26.2-0ubuntu0.18.04.1) over (2.26.1-0ubuntu0.18.04.1) ...
+Preparing to unpack .../gir1.2-webkit2-4.0_2.26.2-0ubuntu0.18.04.1_amd64.deb ...
+Unpacking gir1.2-webkit2-4.0:amd64 (2.26.2-0ubuntu0.18.04.1) over (2.26.1-0ubuntu0.18.04.1) ...
+Preparing to unpack .../gir1.2-javascriptcoregtk-4.0_2.26.2-0ubuntu0.18.04.1_amd64.deb ...
+Unpacking gir1.2-javascriptcoregtk-4.0:amd64 (2.26.2-0ubuntu0.18.04.1) over (2.26.1-0ubuntu0.18.04.1) ...
+Setting up libjavascriptcoregtk-4.0-18:amd64 (2.26.2-0ubuntu0.18.04.1) ...
+Setting up libwebkit2gtk-4.0-37:amd64 (2.26.2-0ubuntu0.18.04.1) ...
+Setting up gir1.2-javascriptcoregtk-4.0:amd64 (2.26.2-0ubuntu0.18.04.1) ...
+Setting up gir1.2-webkit2-4.0:amd64 (2.26.2-0ubuntu0.18.04.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+[0;34m[MESSAGE] - Nasz pakiet zip jest już zainstalowany![0m
+[0;34m[MESSAGE] - Nasz pakiet mc jest już zainstalowany![0m
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Ign:1 http://ddebs.ubuntu.com bionic InRelease
+Hit:2 http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Hit:3 http://archive.ubuntu.com/ubuntu bionic InRelease
+Ign:4 http://ddebs.ubuntu.com bionic-updates InRelease
+Hit:5 http://archive.canonical.com/ubuntu bionic InRelease
+Hit:6 http://ddebs.ubuntu.com bionic Release
+Hit:7 http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Hit:8 http://archive.ubuntu.com/ubuntu bionic-updates InRelease
+Hit:9 http://ddebs.ubuntu.com bionic-updates Release
+Ign:10 http://packages.linuxmint.com tina InRelease
+Hit:11 http://security.ubuntu.com/ubuntu bionic-security InRelease
+Hit:12 http://archive.ubuntu.com/ubuntu bionic-backports InRelease
+Hit:13 http://packages.linuxmint.com tina Release
+Reading package lists...
+Building dependency tree...
+Reading state information...
+All packages are up to date.
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Calculating upgrade...
+The following package was automatically installed and is no longer required:
+  mc-data
+Use 'sudo apt autoremove' to remove it.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Instalacja pakietu zip
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following package was automatically installed and is no longer required:
+  mc-data
+Use 'sudo apt autoremove' to remove it.
+The following NEW packages will be installed:
+  zip
+0 upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 167 kB of archives.
+After this operation, 638 kB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu bionic/main amd64 zip amd64 3.0-11build1 [167 kB]
+Fetched 167 kB in 0s (533 kB/s)
+Selecting previously unselected package zip.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 313371 files and directories currently installed.)
+Preparing to unpack .../zip_3.0-11build1_amd64.deb ...
+Unpacking zip (3.0-11build1) ...
+Setting up zip (3.0-11build1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+[0;32m[OK] - Pakiet zip zainstalowany pomyślnie.[0m
+[0;34m[MESSAGE] - Nasz pakiet mc jest już zainstalowany![0m
+Ign http://ddebs.ubuntu.com bionic InRelease
+Hit http://ppa.launchpad.net/linrunner/tlp/ubuntu bionic InRelease
+Ign http://ddebs.ubuntu.com bionic-updates InRelease
+Hit http://archive.ubuntu.com/ubuntu bionic InRelease
+Hit http://security.ubuntu.com/ubuntu bionic-security InRelease
+Hit http://ddebs.ubuntu.com bionic Release
+Hit http://archive.canonical.com/ubuntu bionic InRelease
+Hit http://ppa.launchpad.net/neovim-ppa/stable/ubuntu bionic InRelease
+Hit http://ddebs.ubuntu.com bionic-updates Release
+Hit http://archive.ubuntu.com/ubuntu bionic-updates InRelease
+Ign http://packages.linuxmint.com tina InRelease
+Hit http://archive.ubuntu.com/ubuntu bionic-backports InRelease
+Hit http://packages.linuxmint.com tina Release
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Reading extended state information...
+Initializing package states...
+Writing extended state information...
+Building tag database...
+Instalacja pakietu zip
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Reading extended state information...
+Initializing package states...
+Writing extended state information...
+Building tag database...
+The following NEW packages will be installed:
+  zip 
+0 packages upgraded, 1 newly installed, 0 to remove and 0 not upgraded.
+Need to get 167 kB of archives. After unpacking 638 kB will be used.
+Writing extended state information...
+Get: 1 http://archive.ubuntu.com/ubuntu bionic/main amd64 zip amd64 3.0-11build1 [167 kB]
+Fetched 167 kB in 0s (476 kB/s)
+Selecting previously unselected package zip.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 313099 files and directories currently installed.)
+Preparing to unpack .../zip_3.0-11build1_amd64.deb ...
+Unpacking zip (3.0-11build1) ...
+Setting up zip (3.0-11build1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+Reading extended state information...
+Initializing package states...
+Writing extended state information...
+Building tag database...
+[0;32m[OK] - Pakiet zip zainstalowany pomyślnie.[0m
+[0;34m[MESSAGE] - Nasz pakiet mc jest już zainstalowany![0m

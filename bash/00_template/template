@@ -1,0 +1,44 @@
+#!/bin/bash
+
+# --- ZMIENNE SPECJALNE ---
+# 0 			- Nazwa skryptu
+# 1 ... 9 - Nazwy argumentów
+# @ 			- Wszystkie argumenty
+# ? 			- Zwrócona wartość przez ostatnie polecenie
+# $ 			- PID bieżącej powłoki
+# # 			- Ilość argumentów
+# --- OPERATORY RELACJI ----
+# -lt 		- Mniejszy niż
+# -le 		- Mniejszy, lub równy
+# -gt 		- Większy niż
+# -ge 		- Większy lub równy
+# = 			- Równy
+# Plik istnieje
+# ----- INNE OPERATORY -----
+# -b 			- Plik istnieje i jest blokowym plikiem specjalnym
+# - 			- Plik istnieje i jest plikiem znakowym
+# -e 			- Plik istnieje
+# -h 			- Plik istnieje i jest linkiem symbolicznym
+# -n 			- Wyrażenie ma długość większą niż 0
+# -d 			- Wyrażenie istnieje i jest katalogiem
+# -z 			- Wyrażenie ma zerową długość
+# -r 			- Można czytać plik
+# -w 			- Można zapisywać do pliku
+# -x 			- Można plik wykonać
+# -f 			- Plik istnieje i jest plikiem zwykłym
+# -p 			- Plik jest łączem nazwanym
+# -N 			- Plik istnieje i był zmieniany od czasu jego ostatniego użycia
+# P1 -nt P2 - P1 jest nowszy od P2
+# P1 -ot P2 - P1 jest starszy od P2 != 			- Różny
+
+
+currentDate=$(date +"%F")
+RED="\e[0;31m"
+GREEN="\e[0;32m"
+BROWN="\e[0;33m"
+BLUE="\e[0;34m"
+PURPLE="\e[0;35m"
+CYAN="\e[0;36m"
+NC="\e[0m"
+
+
