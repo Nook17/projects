@@ -1,0 +1,3 @@
+plik kompilacji Makefile
+komenda -> make -> kompilacja projektu
+komenda -> make clean -> kasuje pliki *.o oraz plik wynikowy

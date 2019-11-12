@@ -1,0 +1,3 @@
+/home/arek/projects/vim/01_test/CMakeFiles/rebuild_cache.dir
+/home/arek/projects/vim/01_test/CMakeFiles/test.dir
+/home/arek/projects/vim/01_test/CMakeFiles/edit_cache.dir

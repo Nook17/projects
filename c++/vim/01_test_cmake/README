@@ -1,0 +1,4 @@
+konfig w pliku CMakeList.txt
+komenda -> cmake . -> budujemy projekt w katalogu z CMakeList.txt 
+komenda -> cmake .. -> budujemy projekt w innym (nowym) katalogu
+komenda -> make -> kompilowanie projektu
