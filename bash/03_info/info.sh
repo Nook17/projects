@@ -12,7 +12,7 @@ NC="\e[0m"
 function mysystem_info()
 {
 	if [ $# -eq 0 ]; then
-		echo -e "${PURPLE}[INFO] - Nie podałeś żadnych argumentów.$NC"
+		echo -e "${PURPLE}[INFO] - Nie podałeś żadnych argumentów$NC"
 	fi
 
 }
