@@ -5,15 +5,19 @@
 # 1 ... 9 - Nazwy argumentów
 # @ 			- Wszystkie argumenty
 # ? 			- Zwrócona wartość przez ostatnie polecenie
-# $ 			- PID bieżącej powłoki
-# # 			- Ilość argumentów
+# $ 			- Numer procesu PID bieżącej powłoki
+# # 			- Ilość argumentów (liczba parametrów)
+#
 # --- OPERATORY RELACJI ----
-# -lt 		- Mniejszy niż
-# -le 		- Mniejszy, lub równy
-# -gt 		- Większy niż
-# -ge 		- Większy lub równy
-# = 			- Równy
-# Plik istnieje
+# -eq  		- sprawdza czy operandy są równymi liczbami (dwa operandy)
+# -neq 		– sprawdza czy operandy są różnymi liczbami (dwa operandy)
+# = 			- sprawdza czy operandy są jednakowymi ciągami znaków (dwa operandy)
+# != 			- sprawdza czy operandy są różnymi ciągami znaków (dwa operandy)
+# -lt 		– sprawdza czy operand1 jest mniejszy od operand2 (dwa operandy które są liczbami całkowitymi)
+# -le 		– sprawdza czy operand1 jest równy lub mniejszy od operand2 (dwa operandy które są liczbami całkowitymi)
+# -gt 		– sprawdza czy operand1 jest większy od operand2 (dwa operandy które są liczbami całkowitymi)
+# -ge 		– sprawdza czy operand1 jest równy lub większy od operand2 (dwa operandy które są liczbami całkowitymi)
+#
 # ----- INNE OPERATORY -----
 # -b 			- Plik istnieje i jest blokowym plikiem specjalnym
 # - 			- Plik istnieje i jest plikiem znakowym
@@ -30,7 +34,21 @@
 # -N 			- Plik istnieje i był zmieniany od czasu jego ostatniego użycia
 # P1 -nt P2 - P1 jest nowszy od P2
 # P1 -ot P2 - P1 jest starszy od P2 != 			- Różny
-
+#
+# ---- echo - Parametry ----
+# -n nie jest wysyłany znak nowej linii
+# -e włącza inetrpretacje znaków specjalnych takich jak:
+# 	\a czyli alert, usłyszysz dzwonek
+# 	\b backspace
+# 	\c pomija znak kończący nowej linii
+# 	\f escape
+# 	\n form feed czyli wysuw strony
+# 	\r znak nowej linii
+# 	\t tabulacja pozioma
+# 	\v tabulacja pionowa
+# 	\\ backslash
+# 	\nnn znak, którego kod ASCII ma wartość ósemkowo
+# 	\xnnn znak, którego kod ASCII ma wartość szesnastkowo
 
 currentDate=$(date +"%F")
 RED="\e[0;31m"
