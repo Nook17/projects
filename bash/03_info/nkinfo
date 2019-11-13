@@ -12,7 +12,6 @@ NC="\e[0m"
 function mysystem_info()
 {
 	if [ $# -eq 0 ]; then
-		#echo -e "${PURPLE}[INFO] - Nie podałeś żadnych argumentów.$NC" | tee -a log_$currentDate.log
 		echo -e "Informacje systemowe ---> Nook Info <---
 	all	- wyszystkie informacje
 	linux	- informacje o dystrybucji systemu
@@ -22,19 +21,14 @@ function mysystem_info()
 	for argInfo in "$@"
 	do
 		case $argInfo in
-			#'linux') echo -e "${GREEN}Dystrybucja: $NC"$(lsb_release -d) ;; # lsb_release -a || dmesg | grep "Linux version" || cat /proc/version || uname -srv || cat /etc/*-release || hostnamectl
+			'all') mysystem_info linux res user ;;
 			'linux') echo -e "${GREEN}Dystrybucja: $NC"$( lsb_release -d | awk -F: '{printf "%s\n",$2}' ) ;;
 			'res') echo -en "${GREEN}Rozdzielczość: $NC"; xrandr | grep '*' | awk -F' ' '{printf "%s\n",$1}' ;;
 			'user') echo -e "${GREEN}Zdefiniowani użytkownicy: $NC" 
 				awk -F: '($3 >= 1000 && $3 < 65534) {printf "%s:%s:%s:%s\n",$1,$3,$6,$7}' /etc/passwd ;;
 			*) echo -e "${RED}[ERROR] - Nie rozpoznaje argumenu!$NC" | tee -a log_$currentDate.log
 		esac
-		
-#		if [ $@ = 'linux' ]; then
-#			uname -a
-#		fi
 	done
-
 }
 
 function main()
