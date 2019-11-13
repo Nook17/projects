@@ -1,0 +1,6 @@
+{
+    "sketch": "02_Engine_L298N.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "port": "/dev/cu.usbmodem143101"
+}

@@ -1,0 +1,6 @@
+{
+    "sketch": "01_Engine_MOSFET/Engine_MOSFET_01.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/cu.usbmodem143101",
+    "programmer": "AVRISP mkII"
+}

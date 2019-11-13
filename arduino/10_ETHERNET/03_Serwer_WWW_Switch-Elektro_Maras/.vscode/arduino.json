@@ -1,0 +1,6 @@
+{
+    "sketch": "03_Serwer_WWW_Switch-Elektro_Maras.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "programmer": "AVRISP mkII"
+}

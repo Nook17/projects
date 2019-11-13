@@ -1,0 +1,6 @@
+{
+  "sketch": "02_SSD1306_nook_logo.ino",
+  "board": "arduino:avr:uno",
+  "programmer": "AVRISP mkII",
+  "port": "/dev/cu.usbmodem143101"
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\nook1_000\\OneDrive\\Elektronika\\ARDUINO\\Projekty\\07_SSD1306\\02_SSD1306_nook_logo\\build\\sketch\\02_SSD1306_nook_logo.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\nook1_000\\OneDrive\\Elektronika\\ARDUINO\\Projekty\\07_SSD1306\\02_SSD1306_nook_logo\\build\\sketch\\02_SSD1306_nook_logo.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\nook1_000\\OneDrive\\Elektronika\\ARDUINO\\Projekty\\07_SSD1306\\02_SSD1306_nook_logo\\build\\sketch\\02_SSD1306_nook_logo.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "C:\\Users\\nook1_000\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library-master"
+  },
+  {
+    "Sourcefile": "c:\\Users\\nook1_000\\OneDrive\\Elektronika\\ARDUINO\\Projekty\\07_SSD1306\\02_SSD1306_nook_logo\\build\\sketch\\02_SSD1306_nook_logo.ino.cpp",
+    "Include": "Adafruit_SSD1306.h",
+    "Includepath": "C:\\Users\\nook1_000\\Documents\\Arduino\\libraries\\Adafruit_SSD1306-master"
+  },
+  {
+    "Sourcefile": "c:\\Users\\nook1_000\\OneDrive\\Elektronika\\ARDUINO\\Projekty\\07_SSD1306\\02_SSD1306_nook_logo\\build\\sketch\\02_SSD1306_nook_logo.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\nook1_000\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library-master\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\nook1_000\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library-master\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\nook1_000\\Documents\\Arduino\\libraries\\Adafruit-GFX-Library-master\\glcdfont.c",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\nook1_000\\Documents\\Arduino\\libraries\\Adafruit_SSD1306-master\\Adafruit_SSD1306.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

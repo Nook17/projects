@@ -1,0 +1,6 @@
+{
+    "sketch": "02_Server_WWW.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "port": "/dev/cu.usbmodem143101"
+}

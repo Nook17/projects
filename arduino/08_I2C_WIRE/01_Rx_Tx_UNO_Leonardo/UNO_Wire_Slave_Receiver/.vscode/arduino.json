@@ -1,0 +1,7 @@
+{
+    "sketch": "UNO_Wire_Slave_Receiver.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "output": "build",
+    "port": "COM3"
+}

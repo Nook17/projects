@@ -1,0 +1,7 @@
+{
+    "sketch": "Engine_MOSFET_01.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "output": "build",
+    "port": "COM3"
+}

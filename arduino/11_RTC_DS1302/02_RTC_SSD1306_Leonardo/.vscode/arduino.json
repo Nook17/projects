@@ -1,0 +1,6 @@
+{
+    "sketch": "02_RTC_SSD1306_Leonardo.ino",
+    "board": "arduino:avr:leonardo",
+    "output": "build",
+    "port": "COM12"
+}

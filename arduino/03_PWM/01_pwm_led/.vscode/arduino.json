@@ -1,0 +1,7 @@
+{
+    "sketch": "pwm_led_01.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "output": "build",
+    "port": "COM3"
+}

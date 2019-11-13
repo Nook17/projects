@@ -1,0 +1,6 @@
+{
+    "sketch": "05_Server_WWW_ON-OFF.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "programmer": "AVRISP mkII"
+}

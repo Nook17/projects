@@ -1,0 +1,6 @@
+Szkic u¿ywa 16 108 bajtów z (49%) pamiêci programu. Maksimum to 32 256 bajtów.
+Globalne zmienne u¿ywaj¹ 927 bajtów z (45%) dynamicznej pamiêci, pozostawiaj¹c 1 121 bajtów dla lokalnych zmiennch. Maksimum to  2 048 bajtów.
+
+
+Szkic u¿ywa 16 108 bajtów z (49%) pamiêci programu. Maksimum to 32 256 bajtów.
+Globalne zmienne u¿ywaj¹ 927 bajtów z (45%) dynamicznej pamiêci, pozostawiaj¹c 1 121 bajtów dla lokalnych zmiennch. Maksimum to  2 048 bajtów.

@@ -1,0 +1,6 @@
+{
+    "sketch": "01_RTC_SET_display_LCD.ino",
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "port": "COM3"
+}

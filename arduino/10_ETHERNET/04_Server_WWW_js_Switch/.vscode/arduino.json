@@ -1,0 +1,6 @@
+{
+    "sketch": "04_Server_WWW_js_Switch.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "programmer": "AVRISP mkII"
+}
