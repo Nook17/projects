@@ -49,6 +49,8 @@
 # 	\\ backslash
 # 	\nnn znak, którego kod ASCII ma wartość ósemkowo
 # 	\xnnn znak, którego kod ASCII ma wartość szesnastkowo
+#
+# Miejsca z informacją o Dystrybucjach LINUX'a ---> lsb_release -a || dmesg | grep "Linux version" || cat /proc/version || uname -srv || cat /etc/*-release || hostnamectl
 
 currentDate=$(date +"%F")
 RED="\e[0;31m"
