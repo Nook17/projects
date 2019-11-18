@@ -1,0 +1,19 @@
+#!/bin/bash
+
+function loop_for()
+{
+	words="A B C D E F G H I J K L M"
+	echo -e "Alfabet:\n" 
+	for letter in $words
+	do
+		echo -n "${letter}, "
+	done
+	echo ""
+}
+
+function main()
+{
+	loop_for
+}
+
+main
