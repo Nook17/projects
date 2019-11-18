@@ -61,8 +61,8 @@ PURPLE="\e[0;35m"
 CYAN="\e[0;36m"
 NC="\e[0m"
 
-Informacje systemowe -- Nook17 -- 
-	all		- wyszystkie informacje
-	linux - informacje o dystrybucji systemu
-	res		- rozdzielczość ekranu
-	user 	- zdefinowani użytkownicy
+#Informacje systemowe -- Nook17 -- 
+#	all		- wyszystkie informacje
+#	linux - informacje o dystrybucji systemu
+#	res		- rozdzielczość ekranu
+#	user 	- zdefinowani użytkownicy
